@@ -1,0 +1,2 @@
+# premium-flange-weld-001-flange-welding-pipe-joint-cr
+Tired of losing track of flange specs and pipe joint details across scattered notes and spreadsheets? Your welding projects deserve a systematic craft lab — not chaos.  The Flange Welding &amp; Pipe Joint Craft Lab is a Notion template that transforms your workflow into a structured, searchable database. It centralizes flange dimensions, weld procedure
